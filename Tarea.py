@@ -21,6 +21,7 @@ jushhdklkh
 """
 print("suma",suma,"A",a,"B",b, sep=" * ")
 
+
 #obtener datos del usuario
 nombre=input("ingrese su nombre: ")
 print("hola,", nombre)
@@ -30,3 +31,5 @@ print("su edad es: ", edad)
 
 saldo= float(input("ingrese su saldo<: "))
 print("su saldo es de: ", saldo)
+
+print("Nombre", "Diana")
