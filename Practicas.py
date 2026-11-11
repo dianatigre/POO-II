@@ -58,8 +58,8 @@ socio = {
 print(socio.get    ("nombre").strip())
 print(socio.get    ("nombre").title())
 print("La cedula es", socio.get("cedula"),"La edad es: ", {socio.get("edad"))
-print(f'activo'={socio{Activo})
- saldo_
+print(f'activo'={socio.get("activo")})
+
 
 # Ejercicio 6
 # Definición de diccionarios y copias
